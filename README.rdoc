@@ -12,11 +12,12 @@ http://railstutorial.ru/chapters/4_0/a-demo-app#top
 
 * Database postgres
 
-* Deployment from http://railstutorial.ru/chapters/4_0/beginning#sec-deploying
+* Deployment from http://railstutorial.ru/chapters/4_0/a-demo-app#top
 
 - do rake assets:precompile for working styles
 
-app at production -
+
+App at production - https://nameless-caverns-20417.herokuapp.com
 
 
-Chapter 2
+DONE
